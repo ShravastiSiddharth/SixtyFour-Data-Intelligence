@@ -1,4 +1,4 @@
-// src/components/StatsHeader.js
+
 import React from 'react';
 import { Row, Col, Card, Statistic } from 'antd';
 import { UserOutlined, ShoppingOutlined, DollarOutlined, LineChartOutlined } from '@ant-design/icons';

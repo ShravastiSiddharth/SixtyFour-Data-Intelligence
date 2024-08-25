@@ -9,6 +9,9 @@ const StyledCard = styled(Card)`
   }
 `;
 
+
+
+
 const TopSoldProducts = () => {
   const data = {
     labels: [

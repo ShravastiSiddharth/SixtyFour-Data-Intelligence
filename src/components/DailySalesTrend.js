@@ -22,6 +22,8 @@ ChartJS.register(
   Legend
 );
 
+
+
 const DailySalesTrend = () => {
   const chartRef = useRef(null);
 

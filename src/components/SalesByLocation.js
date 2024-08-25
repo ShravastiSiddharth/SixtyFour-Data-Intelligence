@@ -12,6 +12,8 @@ const StyledCard = styled(Card)`
     padding: 16px;
   }
 
+
+  
   @media (max-width: 768px) {
     .ant-card-body {
       flex-direction: column;

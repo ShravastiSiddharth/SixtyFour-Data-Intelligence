@@ -4,18 +4,18 @@ import {
   CategoryScale,
   LinearScale,
   BarElement,
-  BarController, // Add this
+  BarController, 
   Title,
   Tooltip,
   Legend
 } from 'chart.js';
 
-// Register the components with Chart.js
+
 Chart.register(
   CategoryScale,
   LinearScale,
   BarElement,
-  BarController, // Register the BarController
+  BarController, 
   Title,
   Tooltip,
   Legend
